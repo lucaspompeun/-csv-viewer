@@ -1,2 +1,2 @@
 # CSV Viewer
-Super simple viewer for CSV files!
+Super simple viewer for CSV files.
